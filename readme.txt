@@ -1,0 +1,1 @@
+How to run the codr? Just install jupyter nbk and import the dataset and den run it
