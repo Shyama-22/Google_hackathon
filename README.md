@@ -1,1 +1,1 @@
-# Google_hackathon
+# Google_hackathon-> This repository contains all the code and the dataset used for my project on natural disaster prediction(forest fires).The "forest-fire-detection-prediction" project aims to accurately detect and predict forest fires. By analyzing relevant datasets, including satellite imagery and weather data, and using advanced models like CNN and MLP, it enables early detection and prompt response. The goal is to minimize damages to ecosystems and human lives by providing reliable and timely forest fire predictions.
